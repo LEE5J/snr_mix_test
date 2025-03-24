@@ -1,5 +1,8 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python
-# Edit at https://www.toptal.com/developers/gitignore?templates=python
+mixed_audio
+noise_audio
+target_audio
+
+
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
