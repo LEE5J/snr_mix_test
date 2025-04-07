@@ -1,8 +1,11 @@
 mixed_audio
 noise_audio
-target_audio
-
-
+target_audio*
+SER_*
+easy*
+normal*
+hard*
+result_audio
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
